@@ -1,4 +1,4 @@
-# Proyecto Express.js - Prices History Manager
+# Proyecto NodeJS + Express - Prices History Manager
 
 Este proyecto implementa una API RESTful utilizando **NodeJS + Express** para gestionar un historial de precios.
 
